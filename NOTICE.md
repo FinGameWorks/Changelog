@@ -4,9 +4,12 @@ I personally think it is not fair as I am proud of my indie apps, and I don't th
 I tried to file an appeal, but obviously, Google Play rejects it without giving details and states their decision is final. 
 (please follow this thread: https://twitter.com/JustZht/status/1432794022607671299) 
 I am still trying to get my apps back through other means, or just publish them using another account, but it would take a while.
+
 For refunds, I am still trying to find a way to make a refund because once the account is terminated, 
 I can only log into the policy page saying my account is effectively dead, nothing more, not even seeing historical download and purchase data.
+
 I am terribly sorry for the issue. 
 
-Best,
-Haotian
+Best,  
+Haotian  
+justzht@gmail.com
