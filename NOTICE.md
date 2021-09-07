@@ -1,5 +1,5 @@
 Apps from FinGameWorks and its sub-accounts (Contrail Software), 
-including Diffuse, Skyline, Metropolis, Vortex, etc, are removed by Google following with complete account termination. 
+including Diffuse, Skyline, Metropolis, Vortex, etc, were removed by Google following with complete account termination. 
 I personally think it is not fair as I am proud of my indie apps, and I don't think there is any shady stuff or wrongdoing in my accounts. 
 I tried to file an appeal, but obviously, Google Play rejects it without giving details and states their decision is final. 
 (please follow this thread: https://twitter.com/JustZht/status/1432794022607671299) 
@@ -13,3 +13,6 @@ I am terribly sorry for the issue.
 Best,  
 Haotian  
 justzht@gmail.com
+
+UPDATE:
+As of 09/06/2021, Diffuse is up again as [a new app](https://play.google.com/store/apps/details?id=com.justzht.lwp.diffuse) through re-submission. Other apps will be re-submitted, if time and situation permit.
