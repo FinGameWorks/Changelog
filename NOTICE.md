@@ -16,4 +16,4 @@ justzht@gmail.com
 
 UPDATE:  
 - <del>As of 09/06/2021, Diffuse is up again as [a new app](https://play.google.com/store/apps/details?id=com.justzht.lwp.diffuse) through re-submission. Other apps will be re-submitted, if time and situation permit.</del>
-- As of 09/27/2021, FinGameWorks, the account holding the new Diffuse app is also banned. Now I don't have Google Play dev account any more. I will probably open source my apps and publish them on F-Droid. It was a good time on Google Play with all kind users I interacted with.
+- As of 09/27/2021, FinGameWorks, the account holding the new Diffuse app is also banned (https://twitter.com/JustZht/status/1442619001331322886). Now I don't have Google Play dev account any more. I will probably open source my apps and publish them on F-Droid. It was a good time on Google Play with all kind users I interacted with.
